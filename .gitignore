@@ -1,0 +1,5 @@
+.vscode/*
+helloworld.dSYM/*
+helloworld
+
+.DS_Store
